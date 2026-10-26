@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Customer Rewards API
 
 ### A Spring Boot REST API for calculating customer reward points
@@ -199,6 +199,4 @@ Contributing
 License
 No license has been specified. Add a LICENSE file before distributing
 the project for reuse.
-::: {align="center"}
-**Built with Java and Spring Boot**
-:::
+
