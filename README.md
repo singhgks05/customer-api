@@ -1,4 +1,4 @@
- ::: {align="center"}
+
 # 🎁 Customer Rewards API
 
 ### A Spring Boot REST API for calculating customer reward points
